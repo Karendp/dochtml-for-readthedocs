@@ -2,7 +2,7 @@ Help
 =======
 
 If you have any trouble contact:
-karen.dpedro@gmail.com
+blabla@gmail.com
 
 further help
 ^^^^^^^^^^^^^
